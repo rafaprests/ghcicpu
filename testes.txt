@@ -1,0 +1,21 @@
+programa1:
+Resp = A + B - 2;
+A = 10;
+B = 20;
+(251)Resp = 28;
+
+programa2:
+Resp = A * B; 
+A = 10;
+B = 5;
+(251)Resp = 50;
+
+programa3:
+A = 0;
+Resp = 1;
+while(A < 5){
+    A = A + 1;
+    Resp = Resp + 2;
+}
+(240)A = 5
+(251)Resp = 11
